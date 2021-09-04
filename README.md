@@ -9,4 +9,10 @@ Personal CAD files for DualShock 4 buttons
    - Don't ask for modification on 'ps-org.XXX' as PS logo is a trademark of Sony.
   
 #### Preview:
+- Original :  
+[![original](img/org.png)](img/org.png)
   
+- Modification :  
+[![modification](img/mod.png)](img/mod.png)
+
+- Real :  
