@@ -16,3 +16,11 @@ Personal CAD files for DualShock 4 buttons
 [![modification](img/mod.png)](img/mod.png)
 
 - Real :  
+
+  
+#### Printing:
+- I can only recommend you to try to print provided files on a SLA/MSLA printer.  
+- Markings on buttons have a width of 0.45mm (0.8mm for PS button), this can be a problem with some resin as some crystals can form into theses marking because of the narrow dimensions (I got hard time printing theses using eSun Hard Tough (ABS Like) resin).  
+  
+#### "Painting":
+On my buttons, I didn't really used paint but Epoxy colored with pigments (2 hours pot life). Using a thru hole resistor pin and a magnifying glass to fill each markings.  
