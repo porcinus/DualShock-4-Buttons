@@ -16,6 +16,10 @@ Personal CAD files for DualShock 4 buttons
 [![modification](img/mod.png)](img/mod.png)
 
 - Real :  
+[![modification](img/prev_controller.jpg)](img/prev_controller.jpg) 
+[![modification](img/prev_buttons.jpg)](img/prev_buttons.jpg) 
+[![modification](img/prev_dpad.jpg)](img/prev_dpad.jpg) 
+[![modification](img/prev_ps.jpg)](img/prev_ps.jpg) 
 
   
 #### Printing:
